@@ -1,0 +1,19 @@
+yarn run v1.22.15
+$ C:\Users\Admin\random\playlist_fetching\node_modules\.bin\ts-node index.ts
+times: 0
+Resolve 50 items
+Result length 50
+Error accumulate: 0
+times: 1
+Resolve 50 items
+Result length 100
+Error accumulate: 0
+times: 2
+Resolve 50 items
+Result length 150
+Error accumulate: 1
+times: 3
+Resolve 50 items
+Result length 200
+Error accumulate: 1
+times: 4
